@@ -1,3 +1,2 @@
-# eazy-pair-program
+# yet-another-voice-chatting
 
-Helper application for pair programming supporting simultaneous inputs, sharing screens, and voice chatting.
