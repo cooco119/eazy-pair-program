@@ -1,1 +1,2 @@
-# eazy-pair-program
+# yet-another-voice-chatting
+
